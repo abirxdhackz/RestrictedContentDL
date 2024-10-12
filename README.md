@@ -40,7 +40,7 @@ pip install pyrofork tgcrypto pyleaves
 
 **Note: If you previously installed `pyrogram`, uninstall it before installing `pyrofork`.**
 
-## Configuration
+## Configuration And Make A Folder Called Helpers And Move The Utils.py Into It.
 
 1. Open the `config.py` file in your favorite text editor.
 2. Replace the placeholders for `API_ID`, `API_HASH`, `SESSION_STRING`, and `BOT_TOKEN` with your actual values:
