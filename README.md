@@ -52,7 +52,7 @@ pip install pyrofork tgcrypto pyleaves
 ## Deploy the Bot
 
 ```sh
-https://github.com/abirxdhacks/RestrictedContentDL.git
+git clone https://github.com/abirxdhacks/RestrictedContentDL.git
 cd RestrictedContentDL
 python main.py
 ```
